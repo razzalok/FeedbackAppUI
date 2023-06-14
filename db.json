@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This is feedback item 1 comming from the backend"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "text": "This is feedback item 2 comming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "This is feedback item 3 comming from the backend"
+    },
+    {
+      "rating": "9",
+      "text": "This feedback is added from postman",
+      "id": 5
+    },
+    {
+      "rating": "5",
+      "text": "This feedback is added from postman1",
+      "id": 6
+    },
+    {
+      "text": "ethrftgyhbfrfhnbtdyfhgnjtg",
+      "rating": 4,
+      "id": 7
+    }
+  ]
+}
